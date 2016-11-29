@@ -11,6 +11,7 @@ Scenario: Check update from GIT
 Given I created new scenario in repository
 Then I can see it in Relime
 But we have this story in Jira
+And story is locked
 
 @SC_90812
 Scenario: 
