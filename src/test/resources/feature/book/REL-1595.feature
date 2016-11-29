@@ -17,12 +17,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 And this scenario row added by Denis
-And this scenario row added by Denis
+And this scenario row updated by Alex
+And this scenario row added by Alex
 
 @SC_90804 @second_scenario_tag
 Scenario: Second scenario
 Some description
-Given I created scenario
+Given I created scenario aaaaaа
 Then I see it in Relime
 
 @SC_90805 @third_scenario_tag
