@@ -18,7 +18,7 @@ Given I created scenario
 Then I see it in Relime
 And I add some changes
 And more changes were added
-And Oksana's changes are added
+And add row by Alex
 
 @SC_90818 @second_scenario_tag
 Scenario: Second scenario
