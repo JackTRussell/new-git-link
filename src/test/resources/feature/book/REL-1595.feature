@@ -10,7 +10,7 @@ And we have this story in Jira
 @SC_90804 @second_scenario_tag
 Scenario: Second scenario
 Some description
-Given I created scenario aaaa
+Given I created scenario aaaaa
 Then I see it in Relime
 
 @SC_90803 @first_scenario_tag
