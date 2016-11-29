@@ -1,4 +1,4 @@
-@ST_14974 @tagtagtag @this_is_story_tag
+@tagtagtag @this_is_story_tag
 Feature: Update this name
 I want to see new description
 
@@ -7,7 +7,7 @@ Background:
 Given hkjhkj
 And we have this story in Jira
 
-@SC_62948 @first_scenario_tag
+@first_scenario_tag
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -16,15 +16,14 @@ In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete cau
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
 Given I created scenario
 Then I see it in Relime
-#fghjkl
 
-@SC_62949 @second_scenario_tag
+@second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_62950 @third_scenario_tag
+@third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -34,13 +33,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_62951 @fourth_scenario_tag
+@fourth_scenario_tag
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_62952 @fifth_scenario_tag
+@fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
