@@ -12,6 +12,7 @@ Given I created new scenario in repository
 Then I can see it in Relime
 But we have this story in Jira
 And story is locked
+But changes are saved
 
 @SC_90812
 Scenario: 
