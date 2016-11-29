@@ -7,6 +7,12 @@ Background:
 Given hkjhkj
 And we have this story in Jira
 
+@SC_90804 @second_scenario_tag
+Scenario: Second scenario
+Some description
+Given I created scenario aaaaaа
+Then I see it in Relime
+
 @SC_90803 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
@@ -19,12 +25,6 @@ Then I see it in Relime
 And this scenario row added by Denis
 And this scenario row updated by Alex
 And this scenario row added by Alex
-
-@SC_90804 @second_scenario_tag
-Scenario: Second scenario
-Some description
-Given I created scenario aaaaa
-Then I see it in Relime
 
 @SC_90805 @third_scenario_tag
 Scenario: Third scenario
