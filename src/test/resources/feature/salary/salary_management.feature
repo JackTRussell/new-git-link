@@ -8,13 +8,13 @@ When the boss increases the salary for the <user> with id <id> by 5%
 Then the payroll for the employee with <id> should display a salary of <salary>
 And i want save this string to Git
 And this string must be pulled from Git
+And this row is added by Alex
 
 Examples: 
 |user|id|salary|
 |donald|||
 |dewie|||
 |fethry|||
-
 
 @SC_90825 @High @Test_1
 Scenario Outline: Modify an employee's salary
