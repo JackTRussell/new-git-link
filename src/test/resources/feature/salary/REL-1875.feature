@@ -19,7 +19,7 @@ Then I see it in Relime
 And I add some changes
 And more changes were added
 And add row by Alex
-And scenario 9 added by Alex
+And scenario 9 update by Alex
 
 @SC_90818 @second_scenario_tag
 Scenario: Second scenario
