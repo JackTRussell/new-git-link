@@ -14,3 +14,31 @@ Given I loaded story from Jira
 And I want to see it in repo
 #comment
 But if there is story with the same name in repo I will see it any way
+
+@SC_107485
+Scenario: 
+Given I loaded story from Jira
+And I want to see it in repo
+#comment
+But if there is story with the same name in repo I will see it any way
+
+@SC_107486
+Scenario: 
+Given I loaded story from Jira
+And I want to see it in repo
+#comment
+But if there is story with the same name in repo I will see it any way
+
+@SC_107487
+Scenario: 
+Given I loaded story from Jira
+And I want to see it in repo
+#comment
+But if there is story with the same name in repo I will see it any way
+
+@SC_107488
+Scenario: 
+Given I loaded story from Jira
+And I want to see it in repo
+#comment
+But if there is story with the same name in repo I will see it any way
