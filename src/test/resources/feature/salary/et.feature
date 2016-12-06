@@ -6,7 +6,3 @@ Scenario Outline: scenario with example table
 Given I have scenario with key word 'Scenario'
 But without key word 'Scenario Outline'
 And I have example table with columns <1> and <2> in scenario
-
-Examples: 
-|1|2|
-|Line1 Column1|Line1 Column2|
