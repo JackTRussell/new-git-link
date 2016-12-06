@@ -3,12 +3,12 @@ Feature: DocString variations
 
 @SC_108713
 Scenario: minimalistic
-Given a simple DocString
 """
 first line (no indent)
   second line (indented with two spaces)
 third line was empty
 """
+Given a simple DocString
 Given a DocString with content type
 """xml
 <foo>
