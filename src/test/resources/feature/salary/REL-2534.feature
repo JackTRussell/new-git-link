@@ -7,12 +7,6 @@ Background:
 Given new changes
 And we have this story in Jira
 
-@SC_108721
-Scenario: 
-Given I created new scenario
-And save it to Git
-And there is no errors
-
 @SC_90822 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
@@ -39,3 +33,15 @@ And I add some changes
 And more changes were added
 But scenario is locked
 And there are Oksana's changes...
+
+@SC_108721
+Scenario: 
+Given I created new scenario
+And save it to Git
+And there is no errors
+
+@SC_108723
+Scenario: 
+Given I created new scenario
+And save it to Git
+And there is no errors
