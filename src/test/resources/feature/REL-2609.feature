@@ -4,9 +4,9 @@ Feature: DocString variations
 @SC_108514
 Scenario: minimalistic
 Given a DocString with content type
-"""
+"""xml
 <foo>
-  <bar />
+<bar />
 </foo>
 """
 And a DocString with wrong indentation
