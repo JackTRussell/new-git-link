@@ -11,6 +11,7 @@ And we have this story in Jira
 Scenario: 
 Given I created new scenario
 And save it to Git
+And there is no errors
 
 @SC_90822 @first_scenario_tag
 Scenario: First scenario
