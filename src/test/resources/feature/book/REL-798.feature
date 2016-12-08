@@ -13,6 +13,7 @@ And description must be save rows before keyword BDD
 And this one scenario
 And with Tags
 And BDD
+And changed by user2
 
 @SC_90809 @High
 Scenario: second scenario for Jira check
