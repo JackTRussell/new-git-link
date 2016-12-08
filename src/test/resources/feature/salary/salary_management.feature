@@ -12,7 +12,7 @@ And we have this story in Jira
 And this also must be re-stored on GIT
 Then in this story background hasn't given keyword
 But Book [number] should have the title '(.+)'
-But add some row qwertty
+But add some row
 
 Examples: 
 |id|user|salary|
