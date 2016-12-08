@@ -13,6 +13,7 @@ Then I can see it in Relime
 But we have this story in Jira
 And story is locked
 But changes are saved
+And locked by user1
 
 @SC_90812
 Scenario: 
