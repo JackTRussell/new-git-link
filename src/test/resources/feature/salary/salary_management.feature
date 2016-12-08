@@ -3,12 +3,6 @@ Feature: Salary Management
 
 @SC_90824 @Critical @Test_1
 Scenario Outline: Modify an employee's salary
-Given the salary management system is initialized with the following data
-When the boss increases the salary for the <user> with id <id> by 5%
-Then the payroll for the employee with <id> should display a salary of <salary>
-And i want save this string to Git
-And this string must be pulled from Git
-And this row is added by Alex
 
 Examples: 
 |user|id|salary|
@@ -19,16 +13,6 @@ Examples:
 
 @SC_90825 @High @Test_1
 Scenario Outline: Modify an employee's salary
-Given the salary management system is initialized with the following data
-When the boss increases the salary for the <user> with id <id> by 5%
-Then the payroll for the employee with <id> should display a salary of <salary>
-And i want save this string to Git
-And this string must be pulled from Git
-And we have this story in Jira
-And this also must be re-stored on GIT
-Then in this story background hasn't given keyword
-But Book [number] should have the title '(.+)'
-But add some row
 
 Examples: 
 |id|user|salary|

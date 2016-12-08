@@ -4,8 +4,6 @@ I want to see new description with new changes
 
 Background: 
 
-Given new changes
-And we have this story in Jira
 
 @SC_104347 @first_scenario_tag
 Scenario: First scenario
@@ -14,12 +12,6 @@ Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex 
 Erat vidit expetenda sea ei. Eam quem inani integre te, quo simul nobis docendi in, cum diceret temporibus ad. Pro ne fugit eripuit, accumsan convenire sit ea. Ea etiam omittam pro, vim id sonet nostro deserunt. Ei eam aliquid apeirian theophrastus, aperiam pericula eum et.
 In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete causae. Ut usu porro omnes dolore, ea idque sapientem vis. Vis in paulo ridens efficiantur, ridens latine eu per, at est sensibus constituto. Nam novum mollis melius cu.
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
-Given I created scenario
-Then I see it in Relime
-And I add some changes
-And more changes were added
-And scenario 11 updated by Alex
-And scenario 12 updated by Oksana
 
 @SC_104348 @second_scenario_tag
 Scenario: Second scenario
@@ -28,10 +20,6 @@ Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex 
 Erat vidit expetenda sea ei. Eam quem inani integre te, quo simul nobis docendi in, cum diceret temporibus ad. Pro ne fugit eripuit, accumsan convenire sit ea. Ea etiam omittam pro, vim id sonet nostro deserunt. Ei eam aliquid apeirian theophrastus, aperiam pericula eum et.
 In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete causae. Ut usu porro omnes dolore, ea idque sapientem vis. Vis in paulo ridens efficiantur, ridens latine eu per, at est sensibus constituto. Nam novum mollis melius cu.
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
-Given I created scenario
-Then I see it in Relime
-And I add some changes
-And more changes were added
 
 @SC_104349 @first_scenario_tag
 Scenario: First scenario
@@ -40,12 +28,6 @@ Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex 
 Erat vidit expetenda sea ei. Eam quem inani integre te, quo simul nobis docendi in, cum diceret temporibus ad. Pro ne fugit eripuit, accumsan convenire sit ea. Ea etiam omittam pro, vim id sonet nostro deserunt. Ei eam aliquid apeirian theophrastus, aperiam pericula eum et.
 In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete causae. Ut usu porro omnes dolore, ea idque sapientem vis. Vis in paulo ridens efficiantur, ridens latine eu per, at est sensibus constituto. Nam novum mollis melius cu.
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
-Given I created scenario
-Then I see it in Relime
-And I add some changes
-And more changes were added
-And scenario 11 updated by Alex
-And scenario 12 updated by Oksana
 
 @SC_104350 @second_scenario_tag
 Scenario: Second scenario
@@ -54,9 +36,3 @@ Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex 
 Erat vidit expetenda sea ei. Eam quem inani integre te, quo simul nobis docendi in, cum diceret temporibus ad. Pro ne fugit eripuit, accumsan convenire sit ea. Ea etiam omittam pro, vim id sonet nostro deserunt. Ei eam aliquid apeirian theophrastus, aperiam pericula eum et.
 In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete causae. Ut usu porro omnes dolore, ea idque sapientem vis. Vis in paulo ridens efficiantur, ridens latine eu per, at est sensibus constituto. Nam novum mollis melius cu.
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
-Given I created scenario
-#comment is here
-Then I see it in Relime
-And I add some changes
-And more changes were added
-And ghll
