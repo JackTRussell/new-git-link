@@ -6,5 +6,4 @@ Scenario: issue 2584
 Given there is scenario for editing
 And there should be displayed all changes for user2
 And I blocked scenario as user2
-And again
-And once again for this user
+And blocked by user2 at 15.43
