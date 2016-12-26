@@ -5,10 +5,6 @@ I want to see new description with new changes
 Background: 
 
 
-@SC_90794 @second_scenario_tag
-Scenario: Second scenario
-Some description
-
 @SC_90795 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
