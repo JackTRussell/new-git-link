@@ -1,2 +1,2 @@
 @ST_37510
-Feature:
+Feature: Some feature for testing
