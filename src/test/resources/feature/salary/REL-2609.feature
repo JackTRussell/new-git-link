@@ -1,5 +1,7 @@
+@ST_37895
 Feature: DocString variations
 
+@SC_146869
 Scenario: minimalistic
 Given a simple DocString
 """
