@@ -1,5 +1,5 @@
-@ST_37890
+@ST_37898
 Feature: DocString variations
 
-@SC_146851
+@SC_146873
 Scenario: minimalistic

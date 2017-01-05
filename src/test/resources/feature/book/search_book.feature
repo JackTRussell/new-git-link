@@ -1,23 +1,23 @@
-@ST_37891 @Story_BookSearch
+@ST_37899 @Story_BookSearch
 Feature: Book search
  To allow a customer to find his favourite books quickly, the library must offer multiple ways to search for a book.
 
 Background: 
 
 
-@SC_146853
+@SC_146875
 Scenario: Check update from GIT
 
-@SC_146854
+@SC_146876
 Scenario: 
 
-@SC_146855 @Critical @Test_1
+@SC_146877 @Critical @Test_1
 Scenario: Search books by publication year
 
-@SC_146856
+@SC_146878
 Scenario: 
 
-@SC_146857
+@SC_146879
 Scenario Outline: test scenario
 
 Examples: example
