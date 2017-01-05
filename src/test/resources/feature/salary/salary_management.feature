@@ -1,7 +1,7 @@
-@ST_21411 @Story_BookSearch @ghjh
+@Story_BookSearch @ghjh
 Feature: Salary Management
 
-@SC_90824 @Critical @Test_1
+@Critical @Test_1
 Scenario Outline: Modify an employee's salary
 
 Examples: 
@@ -11,7 +11,7 @@ Examples:
 |fethry|||
 
 
-@SC_90825 @High @Test_1
+@High @Test_1
 Scenario Outline: Modify an employee's salary
 
 Examples: 
