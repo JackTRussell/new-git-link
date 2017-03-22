@@ -10,6 +10,7 @@ import com.hascode.tutorial.cucumber.salary.Employee;
 import com.hascode.tutorial.cucumber.salary.SalaryManager;
 
 import cucumber.api.PendingException;
+import cucumber.api.java.en.And;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -43,6 +44,10 @@ public class SalarySteps {
 	}
 	@When("^there should be displayed all changes for user2$")
 	public void the_boss_increases_the_salary_for_the_user_with_idww(int arg1) throws Throwable {
+		//TODO: add Table
+	}
+	@And("^a simple DocString$")
+	public void simple_docstring(int arg1) throws Throwable {
 		//TODO: add Table
 	}
 }
