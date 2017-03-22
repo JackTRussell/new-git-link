@@ -41,4 +41,8 @@ public class SalarySteps {
 	public void the_boss_increases_the_salary_for_the_user_with_idqqq(int arg1) throws Throwable {
 		//TODO: add Table
 	}
+	@When("^there should be displayed all changes for user2$")
+	public void the_boss_increases_the_salary_for_the_user_with_idww(int arg1) throws Throwable {
+		//TODO: add Table
+	}
 }
