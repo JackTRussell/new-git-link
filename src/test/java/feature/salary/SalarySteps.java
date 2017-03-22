@@ -38,7 +38,7 @@ public class SalarySteps {
 		//TODO: add Table
 	}
 	@When("^there is scenario for editing$")
-	public void the_boss_increases_the_salary_for_the_user_with_id_id_by_(int arg1) throws Throwable {
+	public void the_boss_increases_the_salary_for_the_user_with_idqqq(int arg1) throws Throwable {
 		//TODO: add Table
 	}
 }
