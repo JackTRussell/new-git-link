@@ -50,4 +50,8 @@ public class SalarySteps {
 	public void simple_docstring(int arg1) throws Throwable {
 		//TODO: add Table
 	}
+	@And("^a DocString with content type$")
+	public void type_docstring(int arg1) throws Throwable {
+		//TODO: add Table
+	}
 }

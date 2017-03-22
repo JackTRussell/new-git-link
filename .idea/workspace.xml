@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="828bbf8c-6058-491c-bfce-506a5d8dfa1b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/java/feature/salary/SalarySteps.java" afterPath="$PROJECT_DIR$/src/test/java/feature/salary/SalarySteps.java" />
     </list>
     <ignored path="cucumber-java-tutorial.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,8 +47,8 @@
       <file leaf-file-name="SalarySteps.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/feature/salary/SalarySteps.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+            <state relative-caret-position="752">
+              <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -480,7 +481,7 @@
       <option name="presentableId" value="Default" />
       <updated>1452506664543</updated>
       <workItem from="1490188658714" duration="1054000" />
-      <workItem from="1490190212186" duration="539000" />
+      <workItem from="1490190212186" duration="655000" />
     </task>
     <task id="LOCAL-00001" summary="step imp">
       <created>1490188990542</created>
@@ -517,11 +518,18 @@
       <option name="project" value="LOCAL" />
       <updated>1490190743040</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="step imp">
+      <created>1490190756228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1490190756228</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1593000" />
+    <option name="totallyTimeSpent" value="1709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1040" extended-state="0" />
@@ -869,8 +877,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/feature/salary/SalarySteps.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="49" column="32" lean-forward="false" selection-start-line="49" selection-start-column="32" selection-end-line="49" selection-end-column="32" />
+        <state relative-caret-position="752">
+          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
