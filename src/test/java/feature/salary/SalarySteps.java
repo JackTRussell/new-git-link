@@ -54,4 +54,8 @@ public class SalarySteps {
 	public void type_docstring(int arg1) throws Throwable {
 		//TODO: add Table
 	}
+	@And("^a DocString with wrong indentation$")
+	public void wrong_docstring(int arg1) throws Throwable {
+		//TODO: add Table
+	}
 }
