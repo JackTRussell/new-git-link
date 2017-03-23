@@ -26,3 +26,4 @@ Scenario:
 
 @SC_146890
 Scenario:
+|\!@#%$^&*()_
