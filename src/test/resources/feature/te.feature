@@ -3,6 +3,7 @@ Feature: check scenario
 
 @SC_146894
 Scenario: issue 2584
+#hgagbhnkj
 Given there is scenario for editing
 #hjjjjj
 And there should be displayed all changes for user2
