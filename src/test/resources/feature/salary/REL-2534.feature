@@ -5,11 +5,6 @@ I want to see new description with new changes
 Background: 
 
 
-@SC_146890
-Scenario: 
-Given |\!@#%$^&*()_
-And [number] books should have been found
-
 @SC_146887 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
