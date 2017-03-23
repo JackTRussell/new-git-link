@@ -5,6 +5,11 @@ I want to see new description with new changes
 Background: 
 
 
+@SC_146890
+Scenario: 
+Given |\!@#%$^&*()_
+And [number] books should have been found
+
 @SC_146887 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
@@ -20,8 +25,3 @@ Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex 
 Erat vidit expetenda sea ei. Eam quem inani integre te, quo simul nobis docendi in, cum diceret temporibus ad. Pro ne fugit eripuit, accumsan convenire sit ea. Ea etiam omittam pro, vim id sonet nostro deserunt. Ei eam aliquid apeirian theophrastus, aperiam pericula eum et.
 In mei quis persius accumsan. Duo dicunt eloquentiam ut, pri eu simul facete causae. Ut usu porro omnes dolore, ea idque sapientem vis. Vis in paulo ridens efficiantur, ridens latine eu per, at est sensibus constituto. Nam novum mollis melius cu.
 In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue discere menandri has ut, omnes nonumes at vis, quo ne malorum accusamus. Vim exerci luptatum contentiones ad, ei veniam everti virtute usu, pri iuvaret equidem no. Eum at odio numquam repudiare, qui in natum iisque, cu quaeque scriptorem cum. Eam sale utroque volutpat in, in sea sanctus aliquando.
-
-
-@SC_146890
-Scenario: 
-Given |\!@#%$^&*()_
