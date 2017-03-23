@@ -10,3 +10,4 @@ And a DocString with alternative separator
 And a DocString with normal separator inside
 And a DocString with alternative separator inside
 And a DocString with escaped separator inside
+|||
