@@ -1,7 +1,7 @@
-@ST_37898
+@ST_83147
 Feature: DocString variations
 
-@SC_146873
+@SC_312064
 Scenario: minimalistic
 Given a simple DocString
 Given a DocString with content type
