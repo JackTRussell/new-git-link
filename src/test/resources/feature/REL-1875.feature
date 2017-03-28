@@ -1,4 +1,4 @@
-@ST_83148 @tagtagtag @this_is_story_tag @new_changes
+@ST_83148 @new_changes @tagtagtag @this_is_story_tag
 Feature: Just feature for testing
 I want to see new description with new changes
 
